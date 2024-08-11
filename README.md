@@ -1,6 +1,6 @@
 Hi, everyone!
 
-Here I'm adding some projects I did using Power Platform as solutioning. You may find some solutions for any problems you could find developing some flow or app 
+Here, I'm sharing some projects I've worked on using Power Platform as solutions. You might find some useful ideas for any challenges you encounter while developing flows or apps.
 
 # Projects
 
